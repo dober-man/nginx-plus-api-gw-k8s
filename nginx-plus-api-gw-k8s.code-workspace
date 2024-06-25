@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"name": "nginx-plus-api-gw-k8s",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
